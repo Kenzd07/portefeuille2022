@@ -1,0 +1,54 @@
+body
+{
+	text-align: center;
+	background: black;
+}
+
+h2
+{
+	color: limegreen;
+}
+
+h1
+{
+
+	color: darkred;
+	text-align: center;
+}
+div
+{
+	border-radius: 26px;
+	margin-left: 580px;
+	margin-right: 300px;
+	width: 30px;
+	border: solid darkred;
+	width: 300px;
+	padding: 15px 15px;
+}
+button
+{
+	
+color: red;
+border: 2px solid red;
+border-radius: 26px;
+margin-top: 5px;
+padding: 7px 7px;
+background-color: limegreen;
+}
+input
+{
+	color: white;
+	text-align: center;
+	background-color: black;
+	border-radius: 26px;
+	border-color: darkred;
+	padding: 7px 10px;
+}
+button:hover
+{
+	background-color: limegreen;
+	color: white;
+	transform: skew(10deg);
+	cursor: pointer;
+
+}
