@@ -1,0 +1,122 @@
+
+body
+{
+	background-color: salmon;
+	text-align: center;
+	color: limegreen;
+}
+
+.h1orga
+{
+	color: white;
+	font-family: verdana;
+	font-size: 3em;
+}
+
+.div1
+{
+	border: 2px solid whitesmoke ;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 25px;
+	padding: 15px 32px;
+}
+
+.b1
+{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 26px;
+	background-color: white;
+	height: 50px;
+	margin-top: 4px;
+
+}
+
+.b1:hover 
+{
+	background-color: black ;
+	color: white;
+	transform: rotate(5deg);
+	cursor: pointer;
+}
+
+.b2
+{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 26px;
+	background-color: white;
+	height: 50px;
+	margin-top: 4px;
+
+}
+
+.b2:hover 
+{
+	background-color: black ;
+	color: white;
+	cursor: pointer;
+}
+
+.div2
+{
+	border: 2px solid black ;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 25px;
+	padding: 15px 32px;
+}
+
+.mdp1
+{
+	border: 2px solid black ;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	border-radius: 25px;
+	padding: 15px 32px;	
+}
+
+.title1
+{
+	color: limegreen;
+	font-size: 2em;
+	margin-bottom: 20ox;
+}
+
+label
+{
+	color: limegreen; 
+}
+
+table
+{
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right:auto ;
+}
+
+.b3
+{
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 16px;
+	background-color: limegreen;
+	height: 50px;
+	margin-top: 20px;
+
+}
+
+.b3:hover 
+{
+	background-color: black ;
+	color: limegreen;
+	transform: rotate(5deg);
+	cursor: pointer;
+}
