@@ -1,0 +1,36 @@
+body
+{
+	background-color: dimgrey
+}
+
+ul li
+{
+	width: 200px;
+	height: 50px;
+	border: 2px solid black;
+	background-color: dimgrey;
+	color: chocolate;
+	list-style: none;
+	font-size: 18px;
+	text-align: center;
+	line-height: 50px;
+	margin-bottom: 8px;
+}
+
+ul li:hover
+{
+cursor: pointer;
+width: 250px;
+background-color: sandybrown;
+color: whitesmoke;
+font-weight: bold;
+border: 2px solid ghostwhite;
+transition: all 0.5s;
+}
+
+
+div
+{
+	margin-right: auto;
+}
+
