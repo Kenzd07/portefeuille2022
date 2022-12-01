@@ -1,0 +1,47 @@
+.menu {width: 100%;}
+
+.menu ul 
+{
+	padding: 0;
+	width: 100px;
+	border: 1px solid;
+	margin: 0px;
+}
+.menu ul li 
+{
+	position: relative;
+	list-style: none;
+	border-bottom: 1px solid;
+}
+
+.menu ul ul
+{
+	position: absolute;
+	top: 0;
+	left: 100px;
+}
+
+.menu ul ul
+{
+	position: absolute;
+	top: 0;
+	left: 100px;
+	display: none;
+}
+
+.menu ul.niveau1 li.sousmenu:hover ul.niveau2,
+.menu ul.niveau2 li.sousmenu:hover ul.niveau3 { display: block; } 
+
+.menu a {color: black;}
+.menu li:hover {background: #EDD;}
+
+.menu li a {
+	text-decoration: none;
+	padding: 4px 0 4px 8px;
+	display: block;
+	border-left:8px solid #BBB ;width: 84px;
+}
+
+.menu li a:hover {border-left-color: red ;}
+.menu ul ul li a:hover {border-left-color: #00FF00;}
+.menu ul ul  ul li a:hover{border-left-color: #0000FF;}

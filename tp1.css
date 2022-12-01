@@ -1,0 +1,65 @@
+body
+{
+    text-align: center;
+}
+div
+{
+    
+    background-color: aquamarine;
+    width: 65%;
+    height: 350px;
+    margin-left: 18%;
+    padding: 5px ;
+    border-radius: 16px;
+    border: 2px solid white;
+    
+    
+    
+}
+.fond
+{
+    
+    background-color: grey;
+    border: 2px solid black;
+    margin-top: 40px;
+    height: 480px;
+    width: 50%;
+    margin-left: 25%;
+    
+   
+    
+    
+}
+button
+{
+    background-color: sandybrown;
+    width: 60%;
+    height: 20%;
+    padding: 5px;
+    margin-top: 12px;
+    margin-bottom: 3px;
+    border-radius: 55px;
+    border: 2px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+button:hover
+{
+background-color: white;
+cursor: pointer;
+color: black;
+}
+
+.fond
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1
+{
+    text-decoration: underline;
+    text-decoration-color: aquamarine ;
+    color: sandybrown;
+}
