@@ -1,0 +1,28 @@
+h1
+{
+    text-align: center;
+}
+
+button
+{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 16px;
+    color: black;
+    margin-left: 33%;
+    width: 30%;
+    margin-top: 10px;
+}
+
+button:hover
+{
+    background-color: black;
+    border-color: aqua;
+    color: white;
+    
+}
+
+img
+{
+    margin-left: 32%;
+}
